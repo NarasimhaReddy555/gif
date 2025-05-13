@@ -1,4 +1,4 @@
-# gif
+
 # 🖼️ ML GIF Creator & Painting App 🎨
 
 A user-friendly application that allows you to create animated GIFs from machine learning visualizations and enjoy freeform painting — all in one place!
